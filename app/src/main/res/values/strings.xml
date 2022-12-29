@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Thirty Days App</string>
+
+    <!-- Top bar -->
+    <string name="top_bar">Thirty Days</string>
+
+    <!-- Days -->
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    <!-- Title days -->
+    <string name="t1">Train the mind.</string>
+    <string name="t2">Relax to the sound of the ocean.</string>
+    <string name="t3">Make a wish.</string>
+    <string name="t4">Bundle up.</string>
+    <string name="t5">Listen to a podcast.</string>
+    <string name="t6">Spend time with your pet.</string>
+    <string name="t7">Explore the world.</string>
+    <string name="t8">Your day. Your strategy.</string>
+    <string name="t9">Play some games.</string>
+    <string name="t10">The ying and the yang.</string>
+    <string name="t11">Beware of pricking yourself.</string>
+    <string name="t12">Darkness in the day.</string>
+    <string name="t13">Buy something.</string>
+    <string name="t14">Take a photo!.</string>
+    <string name="t15">Fight stress.</string>
+    <string name="t16">Fishing time.</string>
+    <string name="t17">Contact with the nature.</string>
+    <string name="t18">Choo Choo.</string>
+    <string name="t19">Eat some ice cream.</string>
+    <string name="t20">Program with coffee.</string>
+    <string name="t21">Vacations.</string>
+    <string name="t22">Pool and… Legos?.</string>
+    <string name="t23">Natural fruits.</string>
+    <string name="t24">The king and the queen.</string>
+    <string name="t25">Appreciate nature.</string>
+    <string name="t26">The wheel of the world.</string>
+    <string name="t27">Create waves.</string>
+    <string name="t28">Paint the world.</string>
+    <string name="t29">Do not be sad.</string>
+    <string name="t30">Is more fun with friends.</string>
+
+    <!-- Description -->
+    <string name="desc1">Practice your logic. Spend a little time solving some algorithms.</string>
+    <string name="desc2">Relax your mind. The sound of water will help you to have a clear mind.</string>
+    <string name="desc3">What you want most, ask without fear.</string>
+    <string name="desc4">Is cold outside. Wrap up or you catch a cold.</string>
+    <string name="desc5">Spend 15 minutes listening to your favorite podcast.</string>
+    <string name="desc6">Your pet is your best friend, a member of the family. Spend time with him and show him your love.</string>
+    <string name="desc7">Do not always be inside your house, you have a world to know.</string>
+    <string name="desc8">Is your planning day, create your strategy and execute it.</string>
+    <string name="desc9">Day off ! Relax (or stress) with some video games!.</string>
+    <string name="desc10">Take a breath. Align your spirits with some yoga.</string>
+    <string name="desc11">Take care of your cacti, you never know when they will bite you… Ba dumb tss(help)…</string>
+    <string name="desc12">Dark people lurk during the day. Dont let gossip ruin it.</string>
+    <string name="desc13">Shopping day !</string>
+    <string name="desc14">Photos and photos and more photos! Store your life!</string>
+    <string name="desc15">Stress. He is that great best friend, dont let him consume you.</string>
+    <string name="desc16">Take your fishing rod. Call a friend or your father and go out and have fun.</string>
+    <string name="desc17">An expedition to nature to have that contact with the beings that surround us.</string>
+    <string name="desc18">The sky train</string>
+    <string name="desc19">Is hot and the body needs something cool. An ice cream maybe?</string>
+    <string name="desc20">Coffee is the gasoline of any programmer. Without this substance, magic would not happen.</string>
+    <string name="desc21">Vacations !</string>
+    <string name="desc22">Dive into the water with your favorite legos.</string>
+    <string name="desc23">The purest fruits of nature, without strange things. Eat eat.</string>
+    <string name="desc24">Is time for a movie</string>
+    <string name="desc25">Give thanks to nature. Without it we would not have the beautiful landscapes that they offer us.</string>
+    <string name="desc26">Luck ? Or is the earth flat? (Im out of ideas help)</string>
+    <string name="desc27">Waves of ideas</string>
+    <string name="desc28">The world is your canvas, create something magical.</string>
+    <string name="desc29">Seriously dont be sad.</string>
+    <string name="desc30">You have friends ?</string>
+</resources>
